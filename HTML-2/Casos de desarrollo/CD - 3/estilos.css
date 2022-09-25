@@ -1,0 +1,27 @@
+﻿body {
+    padding:0;
+    margin:0;
+    color:#000;
+    font-family:Tahoma;
+    font-size:12px;
+    line-height:18px;
+}
+
+td {
+    padding: 0;
+    background-image: url(imagenes/foto.jpg);
+    width:359px;
+    height:144px;
+    float:top;
+}
+
+.link {
+    color:blue;
+}
+
+section {
+    background:#fff;
+    margin-left:146px;
+    margin-top:40px;
+    margin-right:15px;
+}
